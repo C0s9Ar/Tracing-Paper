@@ -3,3 +3,8 @@
 ################################################################################
 
 /SFML-2.5.1/include/SFML/Audio
+/SFML-2.5.1/include/SFML/Network
+/.vs/TP/v17
+/TP.vcxproj.user
+/TP.vcxproj.filters
+/TP.vcxproj
